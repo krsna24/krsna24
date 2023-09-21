@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="200" height="200">
+  <img src="https://github.com/krsna24/krsna24/blob/main/20230917_113107.jpg" alt="Krishan Sharma" width="200" height="200">
 </p>
 
 <h1 align="center">👋 Hi, I'm Krishan Sharma</h1>
