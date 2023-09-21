@@ -2,7 +2,7 @@
   <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="200" height="200">
 </p>
 
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm Krishan Sharma</h1>
 
 <p align="center">
   🚀 Welcome to my GitHub universe 🌟
